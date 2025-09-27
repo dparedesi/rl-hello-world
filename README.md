@@ -1,4 +1,4 @@
-# RL Hello World 🤖
+# Reinforcement Learning: Hello World 🤖
 
 A comprehensive implementation of fundamental reinforcement learning algorithms applied to the CartPole environment. This repository demonstrates the progression from simple tabular methods to state-of-the-art deep reinforcement learning techniques.
 
